@@ -2,18 +2,6 @@
 using namespace std;
 
 
-// 5. search 
-// 10. reverse words
-// 12. 1+2+…+n without loop
-// 11. find max distance between 2 nodes, add 2 more fields to the node.
-// 18. remove m th from n array, retur last one
-// 20. change "345" to 345;
-// 21. 输入两个整数 n 和 m，从数列1，2，3.......n 中 随意取几个数, 使其和等于 m ,要求将其中所有的可能组合列出来.
-// 25. 在字符串中找出连续最长的数字串，并把这个串的长度返回，
-// 26. 左旋转字符串
-// 30. 在从1到n的正数中1出现的次数
-
-
 // Array templated
 template<class T>
 class Array {
